@@ -1,1 +1,1 @@
-# Digit-classification
+# My practices
